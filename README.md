@@ -1,2 +1,1 @@
-WHAT UP!!!
-I made this thing called experimental console. still working on it tho
+I am thatrandomguy1234 and I made a new programming Language called InstructX V1
